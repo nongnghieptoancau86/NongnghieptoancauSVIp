@@ -1,0 +1,7 @@
+{
+  "name": "AgriRead",
+  "description": "Nền tảng đọc báo nông nghiệp song ngữ Anh - Việt và học tiếng Anh chuyên ngành nông nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
